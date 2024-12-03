@@ -10,9 +10,8 @@
 chatgpt:https://chatgpt.com/share/671b4229-41bc-800e-bfa0-cf1ec27976b1
 <br>
 ### 作業3:拉麵尋找器
-<br>介紹影片網址：https://youtu.be/Mhyv3o_ImiE
-<br>簡報：
-介紹影片：
+<br>介紹影片：https://youtu.be/Mhyv3o_ImiE
+<br>簡報：https://drive.google.com/file/d/1dwRTk8OT5G62KyjO60CQ9ttHHjvE2dUB/view?usp=sharing
 <br>
 <br>
 ## 程式語言<br><br>
