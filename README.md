@@ -14,6 +14,12 @@ chatgpt:https://chatgpt.com/share/671b4229-41bc-800e-bfa0-cf1ec27976b1
 
 ### 作業4:網站佈署
 網站連結: https://ramen-finder.onrender.com/  
-程式碼: https://github.com/childe0905/ramen-finder
+程式碼: https://github.com/childe0905/ramen-
+
+### 期末專題
+專題網站：https://superramen.onrender.com/
+程式碼：https://github.com/childe0905/superramen
+介紹影片：
+
 ## 程式語言
 https://drive.google.com/drive/folders/1w8zy60ne8v5kgGqXuY7h3cF3ZsxxOs-E?usp=sharing
